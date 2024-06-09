@@ -32,7 +32,7 @@ yarn create ducks-app <project-directory> [options]
 npx create-ducks-app <project-directory> [options]
 ```
 
-Here's the options:
+Here are the options:
 
 ```bash
 Options:
